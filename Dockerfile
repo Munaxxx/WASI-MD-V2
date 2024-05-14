@@ -7,7 +7,7 @@ RUN npm cache clean --force
 RUN rm -rf /root/Itxxwasi/node_modules
 
 # Install dependencies
-WORKDIR /root/Itxxwasi
+WORKDIR /root/Munaxxx
 RUN npm install
 
 # Add additional Steps To Run...
